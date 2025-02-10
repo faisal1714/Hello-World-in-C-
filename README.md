@@ -1,2 +1,2 @@
-# Hello-World-in-C-
+# Codeforces newcomersheet 1
 
